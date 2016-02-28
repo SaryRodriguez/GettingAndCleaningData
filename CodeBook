@@ -1,0 +1,11 @@
+Participant - The participant ("subject") ID, from 1 to 30
+
+Activity - The activity performed when the corresponding measurements were taken
+
+  1- WALKING
+  2- WALKING UPSTAIRS
+  3- WALKING DOWNSTAIRS 
+  4- SITTING 
+  5- STANDING 
+  6- LAYING 
+
